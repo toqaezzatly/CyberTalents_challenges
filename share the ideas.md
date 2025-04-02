@@ -30,6 +30,8 @@ If the application displayed unexpected behavior, such as listing all records or
 ## **Step 2: Extracting Database Metadata**
 Once confirmed, we attempted to enumerate the database structure using SQLite’s metadata table:
 
+![image](https://github.com/user-attachments/assets/7e120567-a00b-4d53-8f1e-9e6fd5d284ba)
+
 ```sql
 SELECT sql FROM sqlite_master;
 ```
