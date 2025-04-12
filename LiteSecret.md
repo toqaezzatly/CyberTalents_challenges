@@ -68,3 +68,4 @@ The flag obtained is:
 
 ### Notes
 - Use `--threads=10` to make the scanning process faster.
+- Admin is case sensitive, so admin will fail.
