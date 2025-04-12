@@ -22,7 +22,7 @@ Results:
 
 ---
 
-## Step 3: Testing Input Fields for SQL Injection
+## Step 3: Testing Input Fields for SQL Injection using Post method
 
 I tried injecting input fields but they were ineffective, even with **SQLMap**. Here’s the command I used:
 
