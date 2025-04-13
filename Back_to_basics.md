@@ -22,7 +22,7 @@ This challenge lives up to its name, offering a fundamental lesson in investigat
 4. **Find the Flag**:
     - In the inspected code, the flag is commented as:
     ```
-// FLAG{OkaY_I_FailEd_tO_kEEp_yOu_awAy_hEre_iS_yOur_fLAg}
+    // FLAG{OkaY_I_FailEd_tO_kEEp_yOu_awAy_hEre_iS_yOur_fLAg}
     ```
 
 ---
